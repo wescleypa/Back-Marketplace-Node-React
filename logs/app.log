@@ -1,0 +1,1233 @@
+2025-03-17T21:14:49.507Z [info]: Server running on port 3000
+2025-03-17T21:29:54.084Z [info]: Server running on port 3000
+2025-03-17T21:31:23.415Z [info]: Server running on port 3000
+2025-03-17T21:32:43.107Z [info]: Server running on port 3000
+2025-03-17T21:42:56.417Z [info]: Server running on port 3000
+2025-03-17T21:43:49.601Z [info]: Server running on port 3000
+2025-03-17T21:44:16.997Z [info]: Server running on port 3000
+2025-03-17T21:45:37.744Z [info]: Server running on port 3000
+2025-03-17T21:46:48.286Z [info]: Server running on port 3000
+2025-03-17T21:47:27.259Z [info]: Server running on port 3000
+2025-03-17T21:49:41.165Z [info]: Server running on port 3000
+2025-03-17T21:51:28.070Z [info]: Server running on port 3000
+2025-03-17T21:52:19.141Z [info]: Server running on port 3000
+2025-03-17T21:53:57.846Z [info]: Server running on port 3000
+2025-03-17T21:54:30.681Z [info]: Server running on port 3000
+2025-03-17T21:55:36.127Z [info]: Server running on port 3000
+2025-03-17T21:56:14.831Z [info]: Server running on port 3000
+2025-03-17T22:02:17.012Z [info]: Server running on port 3000
+2025-03-17T22:02:35.667Z [info]: Server running on port 3000
+2025-03-17T22:06:25.978Z [info]: Server running on port 3000
+2025-03-17T22:08:33.881Z [info]: Server running on port 3000
+2025-03-17T22:08:47.101Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Notebook
+2025-03-17T22:09:34.940Z [info]: Server running on port 3000
+2025-03-17T22:10:46.140Z [info]: Server running on port 3000
+2025-03-17T22:12:08.817Z [info]: Server running on port 3000
+2025-03-17T22:12:14.829Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Notebook
+2025-03-17T22:21:39.313Z [info]: Server running on port 7000
+2025-03-17T22:24:53.251Z [info]: New client connected
+2025-03-17T22:24:56.834Z [info]: Client disconnected
+2025-03-17T22:24:57.009Z [info]: New client connected
+2025-03-17T22:25:50.067Z [info]: Client disconnected
+2025-03-17T22:31:13.454Z [info]: New client connected
+2025-03-17T22:34:38.267Z [info]: Client disconnected
+2025-03-17T22:34:38.596Z [info]: New client connected
+2025-03-17T23:02:27.761Z [info]: Client disconnected
+2025-03-17T23:02:28.136Z [info]: New client connected
+2025-03-17T23:02:33.976Z [info]: Client disconnected
+2025-03-17T23:02:34.250Z [info]: New client connected
+2025-03-17T23:29:52.544Z [info]: Client disconnected
+2025-03-17T23:29:53.058Z [info]: New client connected
+2025-03-17T23:56:46.516Z [info]: Server running on port 7000
+2025-03-17T23:56:46.602Z [info]: New client connected
+2025-03-17T23:56:50.067Z [info]: Client disconnected
+2025-03-18T00:00:52.419Z [info]: New client connected
+2025-03-18T00:00:57.138Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T00:03:20.614Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T00:03:27.108Z [info]: Client disconnected
+2025-03-18T00:05:19.492Z [info]: New client connected
+2025-03-18T00:05:23.873Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T00:05:23.900Z [info]: Client disconnected
+2025-03-18T00:05:42.482Z [info]: New client connected
+2025-03-18T00:05:46.643Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T00:48:07.313Z [info]: Server running on port 7000
+2025-03-18T00:48:44.462Z [info]: New client connected
+2025-03-18T00:48:54.092Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T00:48:54.136Z [info]: Client disconnected
+2025-03-18T00:49:58.059Z [info]: New client connected
+2025-03-18T00:50:00.887Z [info]: Scraped 48 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T00:51:55.829Z [info]: Server running on port 7000
+2025-03-18T00:51:56.038Z [info]: New client connected
+2025-03-18T00:51:59.636Z [info]: Client disconnected
+2025-03-18T00:52:00.043Z [info]: New client connected
+2025-03-18T00:52:02.782Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T00:54:47.050Z [info]: Server running on port 7000
+2025-03-18T00:54:47.076Z [info]: New client connected
+2025-03-18T00:54:51.438Z [info]: Client disconnected
+2025-03-18T00:54:51.663Z [info]: New client connected
+2025-03-18T00:54:55.118Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T00:57:51.995Z [info]: Server running on port 7000
+2025-03-18T00:57:53.718Z [info]: New client connected
+2025-03-18T00:57:54.334Z [info]: Client disconnected
+2025-03-18T00:57:54.670Z [info]: New client connected
+2025-03-18T00:57:58.702Z [info]: Scraped 48 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T00:59:40.810Z [info]: Server running on port 7000
+2025-03-18T00:59:41.015Z [info]: New client connected
+2025-03-18T00:59:42.830Z [info]: Client disconnected
+2025-03-18T00:59:43.002Z [info]: New client connected
+2025-03-18T00:59:58.728Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:04:17.088Z [info]: Client disconnected
+2025-03-18T01:04:17.263Z [info]: New client connected
+2025-03-18T01:04:33.659Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:05:51.453Z [info]: Server running on port 7000
+2025-03-18T01:05:53.020Z [info]: New client connected
+2025-03-18T01:07:52.568Z [info]: Client disconnected
+2025-03-18T01:07:52.933Z [info]: New client connected
+2025-03-18T01:08:34.448Z [info]: Server running on port 7000
+2025-03-18T01:08:34.992Z [info]: New client connected
+2025-03-18T01:08:48.450Z [info]: Client disconnected
+2025-03-18T01:08:48.783Z [info]: New client connected
+2025-03-18T01:10:23.307Z [info]: Server running on port 7000
+2025-03-18T01:10:23.530Z [info]: New client connected
+2025-03-18T01:10:25.464Z [info]: Client disconnected
+2025-03-18T01:10:25.602Z [info]: New client connected
+2025-03-18T01:11:21.904Z [info]: Server running on port 7000
+2025-03-18T01:11:22.042Z [info]: New client connected
+2025-03-18T01:11:23.356Z [info]: Client disconnected
+2025-03-18T01:11:23.549Z [info]: New client connected
+2025-03-18T01:12:06.435Z [info]: Server running on port 7000
+2025-03-18T01:12:08.707Z [info]: New client connected
+2025-03-18T01:15:18.523Z [info]: Server running on port 7000
+2025-03-18T01:15:21.001Z [info]: New client connected
+2025-03-18T01:15:22.199Z [info]: Client disconnected
+2025-03-18T01:15:22.345Z [info]: New client connected
+2025-03-18T01:15:39.221Z [info]: Scraping concluído para https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:16:07.361Z [info]: Client disconnected
+2025-03-18T01:16:40.858Z [info]: New client connected
+2025-03-18T01:17:20.967Z [info]: Server running on port 7000
+2025-03-18T01:17:21.024Z [info]: New client connected
+2025-03-18T01:17:23.496Z [info]: Client disconnected
+2025-03-18T01:17:24.317Z [info]: New client connected
+2025-03-18T01:17:28.548Z [info]: Scraping concluído para https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:18:53.163Z [info]: Server running on port 7000
+2025-03-18T01:18:53.293Z [info]: New client connected
+2025-03-18T01:18:54.587Z [info]: Client disconnected
+2025-03-18T01:18:54.778Z [info]: New client connected
+2025-03-18T01:18:58.453Z [info]: Scraping concluído para https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:20:05.533Z [info]: Server running on port 7000
+2025-03-18T01:20:07.302Z [info]: New client connected
+2025-03-18T01:20:07.765Z [info]: Client disconnected
+2025-03-18T01:20:07.913Z [info]: New client connected
+2025-03-18T01:21:28.710Z [info]: Server running on port 7000
+2025-03-18T01:21:29.723Z [info]: New client connected
+2025-03-18T01:21:30.432Z [info]: Client disconnected
+2025-03-18T01:21:30.594Z [info]: New client connected
+2025-03-18T01:21:46.797Z [info]: Scraping concluído para https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:23:14.663Z [info]: Server running on port 7000
+2025-03-18T01:23:15.885Z [info]: New client connected
+2025-03-18T01:23:16.782Z [info]: Client disconnected
+2025-03-18T01:23:16.943Z [info]: New client connected
+2025-03-18T01:23:32.628Z [info]: Scraping concluído para https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:24:55.038Z [info]: Server running on port 7000
+2025-03-18T01:24:56.789Z [info]: New client connected
+2025-03-18T01:24:57.798Z [info]: Client disconnected
+2025-03-18T01:24:57.987Z [info]: New client connected
+2025-03-18T01:25:01.893Z [info]: Scraping concluído para https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:26:17.218Z [info]: Server running on port 7000
+2025-03-18T01:26:17.316Z [info]: New client connected
+2025-03-18T01:26:18.975Z [info]: Client disconnected
+2025-03-18T01:26:19.140Z [info]: New client connected
+2025-03-18T01:26:22.691Z [info]: Scraping concluído para https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:26:34.554Z [info]: Client disconnected
+2025-03-18T01:44:36.507Z [info]: New client connected
+2025-03-18T01:45:12.490Z [info]: Client disconnected
+2025-03-18T01:45:12.820Z [info]: New client connected
+2025-03-18T01:45:17.976Z [info]: Scraping concluído para https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:48:01.467Z [info]: Client disconnected
+2025-03-18T01:48:01.956Z [info]: New client connected
+2025-03-18T01:48:05.290Z [info]: Scraping concluído para https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:52:22.376Z [info]: Server running on port 7000
+2025-03-18T01:52:24.086Z [info]: New client connected
+2025-03-18T01:53:28.685Z [info]: Server running on port 7000
+2025-03-18T01:53:29.483Z [info]: New client connected
+2025-03-18T01:53:31.096Z [info]: Client disconnected
+2025-03-18T01:53:31.426Z [info]: New client connected
+2025-03-18T01:53:47.744Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:54:29.138Z [info]: Server running on port 7000
+2025-03-18T01:54:29.222Z [info]: New client connected
+2025-03-18T01:54:31.927Z [info]: Client disconnected
+2025-03-18T01:54:32.096Z [info]: New client connected
+2025-03-18T01:54:36.608Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:55:10.975Z [info]: Server running on port 7000
+2025-03-18T01:55:11.026Z [info]: New client connected
+2025-03-18T01:55:12.682Z [info]: Client disconnected
+2025-03-18T01:55:12.824Z [info]: New client connected
+2025-03-18T01:55:15.387Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T01:57:44.909Z [info]: Server running on port 7000
+2025-03-18T01:57:44.951Z [info]: New client connected
+2025-03-18T01:57:46.843Z [info]: Client disconnected
+2025-03-18T01:57:46.989Z [info]: New client connected
+2025-03-18T01:57:51.643Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:00:21.064Z [info]: Server running on port 7000
+2025-03-18T02:00:21.219Z [info]: New client connected
+2025-03-18T02:01:37.585Z [info]: Client disconnected
+2025-03-18T02:01:37.910Z [info]: New client connected
+2025-03-18T02:01:42.561Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:03:09.988Z [info]: Client disconnected
+2025-03-18T02:03:10.367Z [info]: New client connected
+2025-03-18T02:03:15.239Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:04:22.696Z [info]: Client disconnected
+2025-03-18T02:04:23.056Z [info]: New client connected
+2025-03-18T02:04:27.819Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:06:08.473Z [info]: Client disconnected
+2025-03-18T02:06:08.888Z [info]: New client connected
+2025-03-18T02:06:13.699Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:08:17.089Z [info]: Client disconnected
+2025-03-18T02:08:17.529Z [info]: New client connected
+2025-03-18T02:08:22.283Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:10:02.167Z [info]: Client disconnected
+2025-03-18T02:10:02.478Z [info]: New client connected
+2025-03-18T02:10:07.427Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:10:35.686Z [info]: Client disconnected
+2025-03-18T02:10:36.053Z [info]: New client connected
+2025-03-18T02:10:40.737Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:11:48.104Z [info]: Client disconnected
+2025-03-18T02:11:48.448Z [info]: New client connected
+2025-03-18T02:11:53.060Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:12:37.347Z [info]: Client disconnected
+2025-03-18T02:12:37.696Z [info]: New client connected
+2025-03-18T02:12:42.264Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:17:47.916Z [info]: Client disconnected
+2025-03-18T02:17:48.392Z [info]: New client connected
+2025-03-18T02:17:53.692Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:18:57.744Z [info]: Client disconnected
+2025-03-18T02:18:58.087Z [info]: New client connected
+2025-03-18T02:19:02.800Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:21:11.154Z [info]: Client disconnected
+2025-03-18T02:21:11.499Z [info]: New client connected
+2025-03-18T02:21:16.488Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:25:18.594Z [info]: Client disconnected
+2025-03-18T02:26:05.384Z [info]: New client connected
+2025-03-18T02:26:10.584Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:26:10.606Z [info]: Client disconnected
+2025-03-18T02:27:10.966Z [info]: New client connected
+2025-03-18T02:27:15.898Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:32:20.140Z [info]: Client disconnected
+2025-03-18T02:32:20.479Z [info]: New client connected
+2025-03-18T02:32:25.199Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:33:18.815Z [info]: Client disconnected
+2025-03-18T02:33:19.142Z [info]: New client connected
+2025-03-18T02:33:24.224Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:39:47.815Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:41:12.626Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:41:34.117Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/iphone 15
+2025-03-18T02:44:07.945Z [info]: Client disconnected
+2025-03-18T02:44:08.321Z [info]: New client connected
+2025-03-18T02:44:12.895Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:44:24.225Z [info]: Scraped 52 items from https://lista.mercadolivre.com.br/iphone 14
+2025-03-18T02:46:29.712Z [info]: Scraped 52 items from https://lista.mercadolivre.com.br/dd
+2025-03-18T02:46:29.964Z [info]: Scraped 52 items from https://lista.mercadolivre.com.br/dds
+2025-03-18T02:48:32.879Z [info]: Scraped 54 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:49:13.455Z [info]: Client disconnected
+2025-03-18T02:49:13.792Z [info]: New client connected
+2025-03-18T02:49:18.460Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T02:54:04.415Z [info]: Client disconnected
+2025-03-18T05:55:34.704Z [info]: New client connected
+2025-03-18T05:57:54.062Z [info]: Client disconnected
+2025-03-18T12:05:00.174Z [info]: New client connected
+2025-03-18T12:08:01.419Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:09:11.377Z [info]: Client disconnected
+2025-03-18T12:09:54.659Z [info]: New client connected
+2025-03-18T12:10:00.306Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:10:18.884Z [info]: Client disconnected
+2025-03-18T12:11:14.762Z [info]: New client connected
+2025-03-18T12:11:20.379Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:11:45.182Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/iphone
+2025-03-18T12:14:36.803Z [info]: Client disconnected
+2025-03-18T12:14:37.170Z [info]: New client connected
+2025-03-18T12:14:42.964Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:14:57.546Z [info]: Scraped 50 items from https://lista.mercadolivre.com.br/iphone
+2025-03-18T12:16:08.707Z [info]: Client disconnected
+2025-03-18T12:16:34.687Z [info]: New client connected
+2025-03-18T12:16:39.969Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:17:18.482Z [info]: Scraped 50 items from https://lista.mercadolivre.com.br/iphone 12
+2025-03-18T12:19:09.511Z [info]: Scraped 50 items from https://lista.mercadolivre.com.br/macbook
+2025-03-18T12:24:06.513Z [info]: Client disconnected
+2025-03-18T12:24:06.713Z [info]: New client connected
+2025-03-18T12:24:12.217Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:24:14.955Z [info]: Client disconnected
+2025-03-18T12:24:15.382Z [info]: New client connected
+2025-03-18T12:24:21.100Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:24:33.755Z [info]: Scraped 40 items from https://lista.mercadolivre.com.br/iphone 16 pro max
+2025-03-18T12:25:20.473Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/iphone 16
+2025-03-18T12:27:45.657Z [info]: Client disconnected
+2025-03-18T12:27:46.515Z [info]: New client connected
+2025-03-18T12:27:52.340Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:37:51.206Z [info]: Server running on port 7000
+2025-03-18T12:37:51.661Z [info]: New client connected
+2025-03-18T12:37:56.826Z [info]: Total de páginas encontradas: 1
+2025-03-18T12:37:57.293Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:40:25.324Z [info]: Server running on port 7000
+2025-03-18T12:40:25.373Z [info]: New client connected
+2025-03-18T12:40:32.699Z [info]: Client disconnected
+2025-03-18T12:40:33.110Z [info]: New client connected
+2025-03-18T12:40:38.562Z [info]: Total de páginas encontradas: 11
+2025-03-18T12:40:39.045Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:43:31.733Z [info]: Total de páginas encontradas: 11
+2025-03-18T12:43:32.119Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:52:00.296Z [info]: Total de páginas encontradas: 11
+2025-03-18T12:52:00.709Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T12:59:40.183Z [info]: Server running on port 7000
+2025-03-18T12:59:41.581Z [info]: New client connected
+2025-03-18T12:59:52.207Z [info]: Total de páginas encontradas: 11
+2025-03-18T12:59:52.229Z [info]: Página 1 processada. 57 itens encontrados.
+2025-03-18T12:59:52.581Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:00:57.774Z [info]: Server running on port 7000
+2025-03-18T13:00:57.837Z [info]: New client connected
+2025-03-18T13:01:05.748Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:01:06.169Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:07:18.858Z [info]: Server running on port 7000
+2025-03-18T13:07:18.941Z [info]: New client connected
+2025-03-18T13:07:29.251Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:07:29.655Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook_Desde_51_NoIndex_True
+2025-03-18T13:09:13.204Z [info]: Server running on port 7000
+2025-03-18T13:09:15.592Z [info]: New client connected
+2025-03-18T13:10:08.320Z [info]: Client disconnected
+2025-03-18T13:10:08.638Z [info]: New client connected
+2025-03-18T13:10:13.775Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:10:14.240Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:10:28.649Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:10:28.987Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook_Desde_49_NoIndex_True
+2025-03-18T13:10:54.697Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:10:55.073Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:11:51.851Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:11:52.213Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook_Desde_49_NoIndex_True
+2025-03-18T13:12:09.541Z [info]: Total de páginas encontradas: 14
+2025-03-18T13:12:09.940Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook_Desde_499_NoIndex_True
+2025-03-18T13:12:36.536Z [info]: Total de páginas encontradas: 14
+2025-03-18T13:12:36.858Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook_Desde_649_NoIndex_True
+2025-03-18T13:13:51.631Z [info]: Total de páginas encontradas: 1
+2025-03-18T13:13:52.090Z [info]: Scraped 40 items from https://lista.mercadolivre.com.br/iphone 16 pro max
+2025-03-18T13:14:19.753Z [info]: Total de páginas encontradas: 3
+2025-03-18T13:14:20.100Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/iphone 16
+2025-03-18T13:14:30.161Z [info]: Total de páginas encontradas: 3
+2025-03-18T13:14:30.511Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/iphone 16_Desde_49_NoIndex_True
+2025-03-18T13:15:09.793Z [info]: Total de páginas encontradas: 3
+2025-03-18T13:15:10.260Z [info]: Scraped 51 items from https://lista.mercadolivre.com.br/iphone 16_Desde_49_NoIndex_True
+2025-03-18T13:22:45.418Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:22:45.936Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:25:35.465Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:25:35.826Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:25:35.880Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:25:36.256Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:27:35.601Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:27:35.810Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:27:36.412Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:27:36.639Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:28:16.862Z [info]: Client disconnected
+2025-03-18T13:28:40.291Z [info]: New client connected
+2025-03-18T13:28:45.158Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:28:45.630Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:31:48.906Z [info]: Client disconnected
+2025-03-18T13:32:49.761Z [info]: New client connected
+2025-03-18T13:32:55.249Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:32:55.642Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:35:18.217Z [info]: Client disconnected
+2025-03-18T13:35:18.705Z [info]: New client connected
+2025-03-18T13:35:24.146Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:35:24.555Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:41:00.500Z [info]: Server running on port 7000
+2025-03-18T13:41:01.617Z [info]: New client connected
+2025-03-18T13:46:01.218Z [info]: Server running on port 7000
+2025-03-18T13:46:01.366Z [info]: New client connected
+2025-03-18T13:46:12.465Z [info]: Client disconnected
+2025-03-18T13:46:13.133Z [info]: New client connected
+2025-03-18T13:46:18.854Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:46:19.298Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:47:27.469Z [info]: Server running on port 7000
+2025-03-18T13:47:27.631Z [info]: New client connected
+2025-03-18T13:50:03.286Z [info]: Server running on port 7000
+2025-03-18T13:50:03.385Z [info]: New client connected
+2025-03-18T13:50:57.904Z [info]: Server running on port 7000
+2025-03-18T13:51:00.590Z [info]: New client connected
+2025-03-18T13:52:58.066Z [info]: Client disconnected
+2025-03-18T13:52:59.387Z [info]: New client connected
+2025-03-18T13:53:04.865Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:53:05.233Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:58:13.853Z [info]: Server running on port 7000
+2025-03-18T13:58:13.904Z [info]: New client connected
+2025-03-18T13:58:18.124Z [info]: Client disconnected
+2025-03-18T13:58:18.741Z [info]: New client connected
+2025-03-18T13:58:24.074Z [info]: Total de páginas encontradas: 11
+2025-03-18T13:58:24.526Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T13:59:11.060Z [info]: Server running on port 7000
+2025-03-18T13:59:11.103Z [info]: New client connected
+2025-03-18T14:00:02.843Z [info]: Server running on port 7000
+2025-03-18T14:00:02.912Z [info]: New client connected
+2025-03-18T14:01:44.642Z [info]: Server running on port 7000
+2025-03-18T14:01:44.665Z [info]: New client connected
+2025-03-18T14:01:49.238Z [info]: Client disconnected
+2025-03-18T14:01:49.699Z [info]: New client connected
+2025-03-18T14:01:54.961Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:01:55.321Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:02:43.091Z [info]: Server running on port 7000
+2025-03-18T14:02:43.207Z [info]: New client connected
+2025-03-18T14:04:08.240Z [info]: Client disconnected
+2025-03-18T14:04:09.204Z [info]: New client connected
+2025-03-18T14:04:17.241Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:04:17.790Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:06:45.419Z [info]: Server running on port 7000
+2025-03-18T14:06:45.465Z [info]: New client connected
+2025-03-18T14:06:48.191Z [info]: Client disconnected
+2025-03-18T14:06:49.097Z [info]: New client connected
+2025-03-18T14:06:56.109Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:06:56.743Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:08:30.169Z [info]: Client disconnected
+2025-03-18T14:15:54.088Z [info]: New client connected
+2025-03-18T14:18:22.695Z [info]: Server running on port 7000
+2025-03-18T14:18:22.810Z [info]: New client connected
+2025-03-18T14:18:29.704Z [info]: Client disconnected
+2025-03-18T14:18:30.110Z [info]: New client connected
+2025-03-18T14:18:35.011Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:18:35.388Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:22:13.710Z [info]: Server running on port 7000
+2025-03-18T14:22:13.805Z [info]: New client connected
+2025-03-18T14:23:16.611Z [info]: Server running on port 7000
+2025-03-18T14:23:16.800Z [info]: New client connected
+2025-03-18T14:23:19.414Z [info]: Client disconnected
+2025-03-18T14:23:19.818Z [info]: New client connected
+2025-03-18T14:23:24.568Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:23:24.905Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:25:51.849Z [info]: Client disconnected
+2025-03-18T14:26:56.321Z [info]: New client connected
+2025-03-18T14:27:01.784Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:27:02.094Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:34:53.469Z [info]: Server running on port 7000
+2025-03-18T14:34:53.545Z [info]: New client connected
+2025-03-18T14:35:00.233Z [info]: Client disconnected
+2025-03-18T14:35:00.757Z [info]: New client connected
+2025-03-18T14:35:06.280Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:35:06.626Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:42:36.127Z [info]: Server running on port 7000
+2025-03-18T14:42:36.295Z [info]: New client connected
+2025-03-18T14:42:44.342Z [info]: Client disconnected
+2025-03-18T14:42:44.807Z [info]: New client connected
+2025-03-18T14:42:49.429Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:42:49.753Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:48:31.793Z [info]: Server running on port 7000
+2025-03-18T14:48:31.821Z [info]: New client connected
+2025-03-18T14:48:35.383Z [info]: Client disconnected
+2025-03-18T14:48:35.935Z [info]: New client connected
+2025-03-18T14:48:41.239Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:48:41.607Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:49:15.688Z [info]: Server running on port 7000
+2025-03-18T14:49:15.821Z [info]: New client connected
+2025-03-18T14:49:17.025Z [info]: Client disconnected
+2025-03-18T14:49:17.457Z [info]: New client connected
+2025-03-18T14:49:22.069Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:49:22.409Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:50:44.847Z [info]: Server running on port 7000
+2025-03-18T14:50:45.063Z [info]: New client connected
+2025-03-18T14:50:46.545Z [info]: Client disconnected
+2025-03-18T14:50:47.004Z [info]: New client connected
+2025-03-18T14:50:51.622Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:50:51.924Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:52:06.164Z [info]: Server running on port 7000
+2025-03-18T14:52:06.309Z [info]: New client connected
+2025-03-18T14:52:09.848Z [info]: Client disconnected
+2025-03-18T14:52:10.245Z [info]: New client connected
+2025-03-18T14:52:15.078Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:52:15.400Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:56:33.022Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:56:33.316Z [info]: Scraped 50 items from https://lista.mercadolivre.com.br/iphone 
+2025-03-18T14:58:26.975Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:58:27.306Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T14:58:38.333Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:58:38.643Z [info]: Scraped 50 items from https://lista.mercadolivre.com.br/iphone
+2025-03-18T14:59:18.106Z [info]: Total de páginas encontradas: 11
+2025-03-18T14:59:18.411Z [info]: Scraped 50 items from https://lista.mercadolivre.com.br/iphone
+2025-03-18T15:01:29.429Z [info]: Server running on port 7000
+2025-03-18T15:01:31.526Z [info]: New client connected
+2025-03-18T15:01:40.529Z [info]: Client disconnected
+2025-03-18T15:01:40.887Z [info]: New client connected
+2025-03-18T15:01:45.407Z [info]: Total de páginas encontradas: 11
+2025-03-18T15:01:45.713Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T15:01:56.362Z [info]: Total de páginas encontradas: 11
+2025-03-18T15:01:56.688Z [info]: Scraped 50 items from https://lista.mercadolivre.com.br/iphone
+2025-03-18T15:03:02.896Z [info]: Server running on port 7000
+2025-03-18T15:03:03.051Z [info]: New client connected
+2025-03-18T15:04:32.624Z [info]: Server running on port 7000
+2025-03-18T15:04:32.797Z [info]: New client connected
+2025-03-18T15:05:36.828Z [info]: Server running on port 7000
+2025-03-18T15:05:36.865Z [info]: New client connected
+2025-03-18T15:09:22.495Z [info]: Client disconnected
+2025-03-18T16:01:19.925Z [info]: New client connected
+2025-03-18T16:08:12.393Z [info]: Client disconnected
+2025-03-18T16:08:12.940Z [info]: New client connected
+2025-03-18T16:32:54.752Z [info]: Server running on port 7000
+2025-03-18T16:32:57.848Z [info]: New client connected
+2025-03-18T16:33:06.930Z [info]: Total de páginas encontradas: 11
+2025-03-18T16:33:06.932Z [info]: Total de páginas encontradas: 11
+2025-03-18T16:33:06.933Z [info]: Total de páginas encontradas: 11
+2025-03-18T16:33:06.935Z [info]: Total de páginas encontradas: 11
+2025-03-18T16:33:07.861Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T16:33:07.904Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T16:33:07.943Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T16:33:08.068Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T16:39:56.043Z [info]: Client disconnected
+2025-03-18T16:39:56.930Z [info]: New client connected
+2025-03-18T16:40:03.723Z [info]: Total de páginas encontradas: 11
+2025-03-18T16:40:03.808Z [info]: Total de páginas encontradas: 11
+2025-03-18T16:40:04.502Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T16:40:04.577Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T16:41:04.469Z [info]: Client disconnected
+2025-03-18T16:41:05.122Z [info]: New client connected
+2025-03-18T16:41:11.042Z [info]: Total de páginas encontradas: 11
+2025-03-18T16:41:11.514Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T16:41:11.552Z [info]: Total de páginas encontradas: 11
+2025-03-18T16:41:11.929Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T16:54:36.564Z [info]: Server running on port 7000
+2025-03-18T16:54:36.764Z [info]: New client connected
+2025-03-18T16:55:07.807Z [info]: Server running on port 7000
+2025-03-18T16:55:07.971Z [info]: New client connected
+2025-03-18T16:55:58.049Z [info]: Server running on port 7000
+2025-03-18T16:55:58.077Z [info]: New client connected
+2025-03-18T16:56:12.269Z [info]: Server running on port 7000
+2025-03-18T16:56:12.290Z [info]: New client connected
+2025-03-18T17:00:25.591Z [info]: Server running on port 7000
+2025-03-18T17:00:25.755Z [info]: New client connected
+2025-03-18T17:00:51.712Z [info]: Server running on port 7000
+2025-03-18T17:00:51.757Z [info]: New client connected
+2025-03-18T17:11:35.726Z [info]: Server running on port 7000
+2025-03-18T17:11:35.806Z [info]: New client connected
+2025-03-18T17:12:56.592Z [info]: Server running on port 7000
+2025-03-18T17:12:56.766Z [info]: New client connected
+2025-03-18T17:26:52.750Z [info]: Client disconnected
+2025-03-18T17:26:53.297Z [info]: New client connected
+2025-03-18T17:26:59.646Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:26:59.856Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:27:00.473Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:27:00.495Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:32:07.400Z [info]: Client disconnected
+2025-03-18T17:32:07.824Z [info]: New client connected
+2025-03-18T17:32:13.966Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:32:14.016Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:32:14.620Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:32:14.688Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:32:25.760Z [info]: Client disconnected
+2025-03-18T17:32:25.970Z [info]: New client connected
+2025-03-18T17:32:32.168Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:32:32.703Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:32:32.753Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:32:33.123Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:36:50.619Z [info]: Server running on port 7000
+2025-03-18T17:36:55.470Z [info]: New client connected
+2025-03-18T17:37:33.268Z [info]: Client disconnected
+2025-03-18T17:37:33.540Z [info]: New client connected
+2025-03-18T17:37:39.978Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:37:40.123Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:37:40.838Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:37:40.841Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:42:28.492Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:42:28.961Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:42:29.007Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:42:29.390Z [info]: Scraped 57 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:51:57.356Z [info]: Server running on port 7000
+2025-03-18T17:51:57.522Z [info]: New client connected
+2025-03-18T17:52:04.815Z [info]: Client disconnected
+2025-03-18T17:52:05.373Z [info]: New client connected
+2025-03-18T17:52:11.635Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:52:12.061Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:52:12.259Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:52:12.504Z [info]: Scraped 23 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:53:57.398Z [info]: Server running on port 7000
+2025-03-18T17:53:58.732Z [info]: New client connected
+2025-03-18T17:54:01.255Z [info]: Client disconnected
+2025-03-18T17:54:02.020Z [info]: New client connected
+2025-03-18T17:54:07.942Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:54:08.077Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:54:08.597Z [info]: Scraped 23 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:54:08.644Z [info]: Scraped 23 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:58:07.640Z [info]: Server running on port 7000
+2025-03-18T17:58:07.765Z [info]: New client connected
+2025-03-18T17:58:32.949Z [info]: Client disconnected
+2025-03-18T17:58:33.315Z [info]: New client connected
+2025-03-18T17:58:39.333Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:58:39.740Z [info]: Total de páginas encontradas: 11
+2025-03-18T17:58:39.935Z [info]: Scraped 23 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:58:40.286Z [info]: Scraped 23 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T17:59:23.473Z [info]: Server running on port 7000
+2025-03-18T17:59:23.549Z [info]: New client connected
+2025-03-18T18:20:28.659Z [info]: Client disconnected
+2025-03-18T18:20:43.572Z [info]: New client connected
+2025-03-18T18:20:50.545Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:20:50.748Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:20:51.093Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:20:51.227Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:23:29.023Z [info]: Client disconnected
+2025-03-18T18:23:29.582Z [info]: New client connected
+2025-03-18T18:23:35.383Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:23:35.844Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:23:35.886Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:23:36.260Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:24:17.682Z [info]: Client disconnected
+2025-03-18T18:24:18.199Z [info]: New client connected
+2025-03-18T18:24:24.262Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:24:24.551Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:24:24.850Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:24:25.090Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:30:58.537Z [info]: Client disconnected
+2025-03-18T18:30:59.434Z [info]: New client connected
+2025-03-18T18:31:05.290Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:31:05.729Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:31:05.822Z [info]: Scraped 23 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:31:06.176Z [info]: Scraped 23 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:31:14.545Z [info]: Client disconnected
+2025-03-18T18:31:15.233Z [info]: New client connected
+2025-03-18T18:31:20.977Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:31:21.642Z [info]: Scraped 23 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:31:22.374Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:31:22.862Z [info]: Scraped 23 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:31:57.992Z [info]: Client disconnected
+2025-03-18T18:31:58.497Z [info]: New client connected
+2025-03-18T18:32:05.092Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:32:05.542Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:32:06.257Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:32:06.411Z [info]: Scraped 23 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:32:14.864Z [info]: Client disconnected
+2025-03-18T18:32:15.383Z [info]: New client connected
+2025-03-18T18:34:55.781Z [info]: Server running on port 7000
+2025-03-18T18:34:59.634Z [info]: New client connected
+2025-03-18T18:35:00.520Z [info]: Client disconnected
+2025-03-18T18:35:00.825Z [info]: New client connected
+2025-03-18T18:35:07.677Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:35:07.680Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:35:09.010Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:35:09.022Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:35:09.112Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:35:09.507Z [info]: Total de páginas encontradas: 11
+2025-03-18T18:35:09.778Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:35:10.010Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T18:37:38.649Z [info]: Client disconnected
+2025-03-18T19:23:08.216Z [info]: New client connected
+2025-03-18T19:34:39.399Z [info]: Client disconnected
+2025-03-18T19:34:39.920Z [info]: New client connected
+2025-03-18T19:34:45.932Z [info]: Total de páginas encontradas: 11
+2025-03-18T19:34:46.005Z [info]: Total de páginas encontradas: 11
+2025-03-18T19:34:46.516Z [info]: Scraped 25 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T19:34:46.580Z [info]: Scraped 25 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T19:36:05.530Z [info]: Client disconnected
+2025-03-18T19:36:18.531Z [info]: New client connected
+2025-03-18T19:36:23.658Z [info]: Total de páginas encontradas: 11
+2025-03-18T19:36:24.120Z [info]: Scraped 26 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T19:36:24.130Z [info]: Total de páginas encontradas: 11
+2025-03-18T19:36:24.525Z [info]: Scraped 26 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T19:37:34.302Z [info]: Total de páginas encontradas: 11
+2025-03-18T19:37:34.630Z [info]: Scraped 25 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T19:55:23.624Z [info]: Client disconnected
+2025-03-18T19:55:32.395Z [info]: New client connected
+2025-03-18T19:55:38.082Z [info]: Total de páginas encontradas: 11
+2025-03-18T19:55:38.307Z [info]: Total de páginas encontradas: 11
+2025-03-18T19:55:38.743Z [info]: Scraped 25 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T19:55:38.790Z [info]: Scraped 25 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T20:14:27.748Z [info]: Client disconnected
+2025-03-18T20:14:28.176Z [info]: New client connected
+2025-03-18T20:14:28.184Z [info]: Client disconnected
+2025-03-18T20:16:25.631Z [info]: New client connected
+2025-03-18T20:16:31.157Z [info]: Total de páginas encontradas: 11
+2025-03-18T20:16:31.314Z [info]: Total de páginas encontradas: 11
+2025-03-18T20:16:31.679Z [info]: Scraped 25 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T20:16:31.767Z [info]: Scraped 25 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T20:16:51.699Z [info]: Total de páginas encontradas: 11
+2025-03-18T20:16:51.984Z [info]: Scraped 25 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-18T20:28:52.951Z [info]: Client disconnected
+2025-03-18T22:14:38.893Z [info]: New client connected
+2025-03-18T22:18:44.752Z [info]: Client disconnected
+2025-03-18T23:15:04.560Z [info]: New client connected
+2025-03-18T23:15:11.574Z [info]: Client disconnected
+2025-03-18T23:28:48.831Z [info]: New client connected
+2025-03-18T23:58:47.793Z [info]: Client disconnected
+2025-03-19T00:22:43.314Z [info]: New client connected
+2025-03-19T00:41:01.403Z [info]: Client disconnected
+2025-03-19T01:27:25.702Z [info]: Server running on port 7000
+2025-03-19T01:28:07.326Z [info]: New client connected
+2025-03-19T01:28:18.402Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:28:18.497Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:28:18.547Z [info]: Scraped 26 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:28:18.629Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:28:48.579Z [info]: Client disconnected
+2025-03-19T01:28:49.163Z [info]: New client connected
+2025-03-19T01:28:54.820Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:28:54.987Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:28:55.026Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:28:55.314Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:29:08.557Z [info]: Client disconnected
+2025-03-19T01:29:09.125Z [info]: New client connected
+2025-03-19T01:29:14.150Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:29:14.282Z [info]: Scraped 26 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:29:14.427Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:29:14.527Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:38:34.217Z [info]: Server running on port 7000
+2025-03-19T01:38:37.398Z [info]: New client connected
+2025-03-19T01:38:43.045Z [info]: Client disconnected
+2025-03-19T01:38:43.894Z [info]: New client connected
+2025-03-19T01:38:49.186Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:38:49.264Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:38:49.443Z [info]: Scraped 26 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:38:49.485Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:45:05.236Z [info]: Client disconnected
+2025-03-19T01:45:05.834Z [info]: New client connected
+2025-03-19T01:45:10.780Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:45:10.876Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:45:10.969Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:45:11.023Z [info]: Scraped 26 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:46:33.194Z [info]: Client disconnected
+2025-03-19T01:46:33.838Z [info]: New client connected
+2025-03-19T01:46:39.071Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:46:39.279Z [info]: Scraped 26 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:46:39.768Z [info]: Total de páginas encontradas: 11
+2025-03-19T01:46:39.946Z [info]: Scraped 24 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T01:55:03.077Z [info]: Server running on port 7000
+2025-03-19T01:55:06.422Z [info]: New client connected
+2025-03-19T02:00:24.801Z [info]: Server running on port 7000
+2025-03-19T02:00:26.072Z [info]: New client connected
+2025-03-19T02:00:33.634Z [info]: Client disconnected
+2025-03-19T02:00:34.372Z [info]: New client connected
+2025-03-19T02:00:42.286Z [info]: Total de páginas encontradas: 11
+2025-03-19T02:00:42.447Z [info]: Scraped 26 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T02:00:42.563Z [info]: Total de páginas encontradas: 11
+2025-03-19T02:00:42.666Z [info]: Scraped 26 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T02:02:08.628Z [info]: Server running on port 7000
+2025-03-19T02:02:10.626Z [info]: New client connected
+2025-03-19T02:09:38.924Z [info]: Client disconnected
+2025-03-19T02:09:53.237Z [info]: New client connected
+2025-03-19T02:32:53.062Z [info]: Server running on port 7000
+2025-03-19T02:32:55.245Z [info]: New client connected
+2025-03-19T02:38:42.287Z [info]: Client disconnected
+2025-03-19T13:22:29.195Z [info]: New client connected
+2025-03-19T13:58:12.959Z [info]: Client disconnected
+2025-03-19T13:58:13.440Z [info]: New client connected
+2025-03-19T13:58:21.826Z [info]: Total de páginas encontradas: 11
+2025-03-19T13:58:21.828Z [info]: Total de páginas encontradas: 11
+2025-03-19T13:58:21.982Z [info]: Scraped 10 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T13:58:21.986Z [info]: Scraped 10 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T15:07:32.086Z [info]: Client disconnected
+2025-03-19T16:19:14.761Z [info]: New client connected
+2025-03-19T16:27:38.337Z [info]: Client disconnected
+2025-03-19T16:31:07.023Z [info]: New client connected
+2025-03-19T16:31:15.384Z [info]: Total de páginas encontradas: 11
+2025-03-19T16:31:15.529Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T16:31:15.595Z [info]: Total de páginas encontradas: 11
+2025-03-19T16:31:15.695Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T16:31:32.877Z [info]: Client disconnected
+2025-03-19T16:34:45.002Z [info]: New client connected
+2025-03-19T16:34:49.704Z [info]: Total de páginas encontradas: 11
+2025-03-19T16:34:49.830Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T16:34:49.851Z [info]: Total de páginas encontradas: 11
+2025-03-19T16:34:49.947Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:14:30.996Z [info]: Client disconnected
+2025-03-19T17:15:27.628Z [info]: New client connected
+2025-03-19T17:15:36.051Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:15:36.052Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:15:36.207Z [info]: Scraped 15 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:15:36.208Z [info]: Scraped 15 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:18:33.166Z [info]: Client disconnected
+2025-03-19T17:18:33.362Z [info]: New client connected
+2025-03-19T17:18:37.814Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:18:37.914Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:18:37.919Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:18:38.035Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:46:47.761Z [info]: Client disconnected
+2025-03-19T17:47:39.232Z [info]: New client connected
+2025-03-19T17:47:46.887Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:47:46.922Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:47:47.075Z [info]: Scraped 15 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:47:47.104Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:47:51.102Z [info]: Client disconnected
+2025-03-19T17:48:21.950Z [info]: New client connected
+2025-03-19T17:48:26.330Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:48:26.449Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:48:26.679Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:48:26.766Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:48:37.925Z [info]: Client disconnected
+2025-03-19T17:49:05.791Z [info]: New client connected
+2025-03-19T17:49:10.302Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:49:10.435Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:49:10.453Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:49:10.626Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:54:55.029Z [info]: Client disconnected
+2025-03-19T17:55:02.882Z [info]: New client connected
+2025-03-19T17:55:07.384Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:55:07.411Z [info]: Total de páginas encontradas: 11
+2025-03-19T17:55:07.540Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T17:55:07.563Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T18:25:52.999Z [info]: Client disconnected
+2025-03-19T18:51:24.688Z [info]: New client connected
+2025-03-19T18:58:00.329Z [info]: Client disconnected
+2025-03-19T19:31:07.016Z [info]: New client connected
+2025-03-19T19:31:14.537Z [info]: Total de páginas encontradas: 11
+2025-03-19T19:31:14.647Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T19:31:14.651Z [info]: Total de páginas encontradas: 11
+2025-03-19T19:31:14.745Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T20:21:32.512Z [info]: Client disconnected
+2025-03-19T20:21:33.044Z [info]: New client connected
+2025-03-19T20:21:40.059Z [info]: Total de páginas encontradas: 11
+2025-03-19T20:21:40.179Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T20:21:40.827Z [info]: Total de páginas encontradas: 11
+2025-03-19T20:21:40.948Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T20:33:22.350Z [info]: Server running on port 7000
+2025-03-19T20:33:24.082Z [info]: New client connected
+2025-03-19T20:33:45.561Z [info]: Server running on port 7000
+2025-03-19T20:33:45.633Z [info]: New client connected
+2025-03-19T20:45:56.098Z [info]: Server running on port 7000
+2025-03-19T20:45:58.577Z [info]: New client connected
+2025-03-19T20:49:37.535Z [info]: Server running on port 7000
+2025-03-19T20:49:37.563Z [info]: New client connected
+2025-03-19T20:59:15.451Z [info]: Server running on port 7000
+2025-03-19T20:59:18.244Z [info]: New client connected
+2025-03-19T20:59:51.410Z [info]: Server running on port 7000
+2025-03-19T20:59:51.546Z [info]: New client connected
+2025-03-19T21:28:32.242Z [info]: Client disconnected
+2025-03-19T21:28:32.736Z [info]: New client connected
+2025-03-19T21:28:40.148Z [info]: Total de páginas encontradas: 11
+2025-03-19T21:28:40.244Z [info]: Total de páginas encontradas: 11
+2025-03-19T21:28:40.350Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T21:28:40.360Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T21:31:06.121Z [info]: Client disconnected
+2025-03-19T21:31:12.180Z [info]: New client connected
+2025-03-19T21:31:16.435Z [info]: Total de páginas encontradas: 11
+2025-03-19T21:31:16.459Z [info]: Total de páginas encontradas: 11
+2025-03-19T21:31:16.554Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T21:31:16.612Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T21:37:58.968Z [info]: Client disconnected
+2025-03-19T21:37:59.586Z [info]: New client connected
+2025-03-19T21:38:04.035Z [info]: Total de páginas encontradas: 11
+2025-03-19T21:38:04.140Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T21:38:04.738Z [info]: Total de páginas encontradas: 11
+2025-03-19T21:38:04.841Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T21:43:52.934Z [info]: Client disconnected
+2025-03-19T21:43:53.420Z [info]: New client connected
+2025-03-19T21:43:57.947Z [info]: Total de páginas encontradas: 11
+2025-03-19T21:43:58.094Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T21:43:58.703Z [info]: Total de páginas encontradas: 11
+2025-03-19T21:43:58.897Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T21:59:49.319Z [info]: Client disconnected
+2025-03-19T21:59:50.039Z [info]: New client connected
+2025-03-19T21:59:57.238Z [info]: Total de páginas encontradas: 11
+2025-03-19T21:59:57.337Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T21:59:57.402Z [info]: Total de páginas encontradas: 11
+2025-03-19T21:59:57.510Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T22:01:56.282Z [info]: Client disconnected
+2025-03-19T22:01:56.977Z [info]: New client connected
+2025-03-19T22:02:01.770Z [info]: Total de páginas encontradas: 11
+2025-03-19T22:02:01.910Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T22:02:01.954Z [info]: Total de páginas encontradas: 11
+2025-03-19T22:02:02.046Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T22:02:08.935Z [info]: Total de páginas encontradas: 1
+2025-03-19T22:02:09.080Z [info]: Scraped 9 items from https://lista.mercadolivre.com.br/iphone 16 pro max
+2025-03-19T22:05:44.403Z [info]: Total de páginas encontradas: 1
+2025-03-19T22:05:44.514Z [info]: Scraped 9 items from https://lista.mercadolivre.com.br/iphone 16 pro max
+2025-03-19T22:14:52.345Z [info]: Server running on port 7000
+2025-03-19T22:14:53.641Z [info]: New client connected
+2025-03-19T22:15:46.951Z [info]: Client disconnected
+2025-03-19T22:15:47.562Z [info]: New client connected
+2025-03-19T22:15:52.184Z [info]: Total de páginas encontradas: 11
+2025-03-19T22:15:52.269Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T22:15:52.374Z [info]: Total de páginas encontradas: 11
+2025-03-19T22:15:52.504Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T22:16:01.529Z [info]: Total de páginas encontradas: 1
+2025-03-19T22:16:01.694Z [info]: Scraped 9 items from https://lista.mercadolivre.com.br/iphone 16 pro max
+2025-03-19T22:21:35.466Z [info]: Client disconnected
+2025-03-19T23:05:58.636Z [info]: New client connected
+2025-03-19T23:07:27.014Z [info]: Server running on port 7000
+2025-03-19T23:07:28.519Z [info]: New client connected
+2025-03-19T23:07:35.083Z [info]: Client disconnected
+2025-03-19T23:07:36.055Z [info]: New client connected
+2025-03-19T23:08:00.768Z [info]: Client disconnected
+2025-03-19T23:08:03.127Z [info]: New client connected
+2025-03-19T23:08:11.111Z [info]: Total de páginas encontradas: 11
+2025-03-19T23:08:11.190Z [info]: Total de páginas encontradas: 11
+2025-03-19T23:08:11.264Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T23:08:11.305Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T23:12:21.998Z [info]: Server running on port 7000
+2025-03-19T23:12:26.506Z [info]: New client connected
+2025-03-19T23:13:49.286Z [info]: Client disconnected
+2025-03-19T23:13:49.909Z [info]: New client connected
+2025-03-19T23:13:54.641Z [info]: Total de páginas encontradas: 11
+2025-03-19T23:13:54.776Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T23:13:55.174Z [info]: Total de páginas encontradas: 11
+2025-03-19T23:13:55.322Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T23:20:00.032Z [info]: Client disconnected
+2025-03-19T23:20:01.279Z [info]: New client connected
+2025-03-19T23:20:09.044Z [info]: Total de páginas encontradas: 11
+2025-03-19T23:20:09.104Z [info]: Total de páginas encontradas: 11
+2025-03-19T23:20:09.226Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T23:20:09.250Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T23:26:29.381Z [info]: Server running on port 7000
+2025-03-19T23:26:29.555Z [info]: New client connected
+2025-03-19T23:33:38.444Z [info]: Server running on port 7000
+2025-03-19T23:33:38.568Z [info]: New client connected
+2025-03-19T23:43:29.341Z [info]: Server running on port 7000
+2025-03-19T23:43:29.561Z [info]: New client connected
+2025-03-19T23:44:14.315Z [info]: Server running on port 7000
+2025-03-19T23:44:14.400Z [info]: New client connected
+2025-03-19T23:44:46.415Z [info]: Server running on port 7000
+2025-03-19T23:44:46.550Z [info]: New client connected
+2025-03-19T23:46:13.081Z [info]: Server running on port 7000
+2025-03-19T23:46:13.305Z [info]: New client connected
+2025-03-19T23:46:26.991Z [info]: Client disconnected
+2025-03-19T23:46:59.081Z [info]: New client connected
+2025-03-19T23:47:07.268Z [info]: Total de páginas encontradas: 11
+2025-03-19T23:47:07.270Z [info]: Total de páginas encontradas: 11
+2025-03-19T23:47:07.421Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T23:47:07.479Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-19T23:48:51.708Z [info]: Server running on port 7000
+2025-03-19T23:48:51.813Z [info]: New client connected
+2025-03-19T23:49:45.600Z [info]: Server running on port 7000
+2025-03-19T23:49:45.819Z [info]: New client connected
+2025-03-19T23:50:27.134Z [info]: Server running on port 7000
+2025-03-19T23:50:29.683Z [info]: New client connected
+2025-03-19T23:50:57.950Z [info]: Client disconnected
+2025-03-20T01:02:15.702Z [info]: New client connected
+2025-03-20T01:12:18.805Z [info]: Client disconnected
+2025-03-20T01:12:19.855Z [info]: New client connected
+2025-03-20T01:12:28.171Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:12:28.298Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:12:28.319Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:12:28.429Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:14:16.696Z [info]: Client disconnected
+2025-03-20T01:14:17.534Z [info]: New client connected
+2025-03-20T01:14:22.107Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:14:22.255Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:14:23.040Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:14:23.171Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:14:41.189Z [info]: Client disconnected
+2025-03-20T01:14:41.865Z [info]: New client connected
+2025-03-20T01:14:46.432Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:14:46.488Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:14:46.617Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:14:46.625Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:15:56.836Z [info]: Server running on port 7000
+2025-03-20T01:15:57.496Z [info]: New client connected
+2025-03-20T01:17:34.252Z [info]: Server running on port 7000
+2025-03-20T01:17:34.459Z [info]: New client connected
+2025-03-20T01:17:47.988Z [info]: Client disconnected
+2025-03-20T01:17:48.546Z [info]: New client connected
+2025-03-20T01:17:53.499Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:17:53.652Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:17:53.659Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:17:53.774Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:19:36.018Z [info]: Server running on port 7000
+2025-03-20T01:19:37.366Z [info]: New client connected
+2025-03-20T01:19:40.910Z [info]: Client disconnected
+2025-03-20T01:19:41.462Z [info]: New client connected
+2025-03-20T01:19:46.195Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:19:46.357Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:19:47.139Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:19:47.230Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:22:28.260Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:22:28.357Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:22:28.385Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:22:28.515Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:23:17.636Z [info]: Client disconnected
+2025-03-20T01:24:40.205Z [info]: New client connected
+2025-03-20T01:24:44.731Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:24:44.826Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:24:44.907Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:24:44.933Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:25:37.203Z [info]: Client disconnected
+2025-03-20T01:25:38.066Z [info]: New client connected
+2025-03-20T01:25:42.849Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:25:42.986Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:25:43.009Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:25:43.099Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:25:52.771Z [info]: Client disconnected
+2025-03-20T01:25:53.325Z [info]: New client connected
+2025-03-20T01:25:57.905Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:25:57.988Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:25:58.073Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:25:58.093Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:28:15.745Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:28:15.893Z [info]: Scraped 13 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:37:06.471Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:37:06.699Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:41:45.486Z [info]: Client disconnected
+2025-03-20T01:41:45.692Z [info]: New client connected
+2025-03-20T01:41:50.541Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:41:50.587Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:41:50.686Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:41:50.721Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:43:04.691Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:43:04.779Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:43:04.849Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:43:04.893Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:43:06.650Z [info]: Client disconnected
+2025-03-20T01:43:07.154Z [info]: New client connected
+2025-03-20T01:43:12.160Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:43:12.256Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:43:12.371Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:43:12.423Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:45:03.367Z [info]: Client disconnected
+2025-03-20T01:45:03.869Z [info]: New client connected
+2025-03-20T01:45:08.584Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:45:08.820Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:45:08.851Z [info]: Total de páginas encontradas: 11
+2025-03-20T01:45:08.981Z [info]: Scraped 12 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T01:58:52.377Z [info]: Client disconnected
+2025-03-20T08:04:00.848Z [info]: New client connected
+2025-03-20T08:06:27.382Z [info]: Client disconnected
+2025-03-20T11:07:58.856Z [info]: New client connected
+2025-03-20T11:10:25.545Z [info]: Client disconnected
+2025-03-20T11:58:38.907Z [info]: New client connected
+2025-03-20T12:02:38.663Z [info]: Total de páginas encontradas: 11
+2025-03-20T12:02:38.699Z [info]: Total de páginas encontradas: 11
+2025-03-20T12:02:38.773Z [info]: Scraped 6 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T12:02:38.800Z [info]: Scraped 6 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T12:17:09.242Z [info]: Client disconnected
+2025-03-20T12:18:55.504Z [info]: New client connected
+2025-03-20T12:19:02.624Z [info]: Total de páginas encontradas: 11
+2025-03-20T12:19:02.719Z [info]: Scraped 6 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T12:19:02.841Z [info]: Total de páginas encontradas: 11
+2025-03-20T12:19:02.938Z [info]: Scraped 6 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T12:34:16.189Z [info]: Client disconnected
+2025-03-20T12:34:35.102Z [info]: New client connected
+2025-03-20T12:34:35.107Z [info]: Client disconnected
+2025-03-20T12:36:53.538Z [info]: New client connected
+2025-03-20T12:37:00.884Z [info]: Total de páginas encontradas: 11
+2025-03-20T12:37:00.977Z [info]: Scraped 6 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T12:37:00.978Z [info]: Total de páginas encontradas: 11
+2025-03-20T12:37:01.088Z [info]: Scraped 6 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T12:38:29.577Z [info]: Client disconnected
+2025-03-20T12:38:37.081Z [info]: New client connected
+2025-03-20T12:38:41.272Z [info]: Total de páginas encontradas: 11
+2025-03-20T12:38:41.339Z [info]: Total de páginas encontradas: 11
+2025-03-20T12:38:41.355Z [info]: Scraped 6 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T12:38:41.432Z [info]: Scraped 6 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T12:57:14.062Z [info]: Client disconnected
+2025-03-20T12:57:28.498Z [info]: New client connected
+2025-03-20T12:57:35.566Z [info]: Total de páginas encontradas: 11
+2025-03-20T12:57:35.886Z [info]: Scraped 7 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T12:57:36.368Z [info]: Total de páginas encontradas: 11
+2025-03-20T12:57:36.434Z [info]: Scraped 7 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:09:08.782Z [info]: Client disconnected
+2025-03-20T13:09:40.568Z [info]: New client connected
+2025-03-20T13:09:44.204Z [info]: Client disconnected
+2025-03-20T13:09:47.465Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:09:47.593Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:09:47.891Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:09:47.970Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:11:25.980Z [info]: New client connected
+2025-03-20T13:11:30.127Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:11:30.185Z [info]: Client disconnected
+2025-03-20T13:11:30.231Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:11:30.302Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:11:30.365Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:12:40.721Z [info]: New client connected
+2025-03-20T13:12:45.116Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:12:45.224Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:12:45.243Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:12:45.347Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:13:45.792Z [info]: Client disconnected
+2025-03-20T13:14:38.487Z [info]: New client connected
+2025-03-20T13:14:42.506Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:14:42.636Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:14:42.745Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:14:42.914Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:15:13.894Z [info]: Client disconnected
+2025-03-20T13:15:14.480Z [info]: New client connected
+2025-03-20T13:15:18.870Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:15:18.872Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:15:18.976Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:15:18.982Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:16:51.881Z [info]: Client disconnected
+2025-03-20T13:16:52.418Z [info]: New client connected
+2025-03-20T13:16:55.738Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:16:55.835Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:16:56.150Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:16:56.231Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:20:51.128Z [info]: Client disconnected
+2025-03-20T13:20:51.638Z [info]: New client connected
+2025-03-20T13:20:55.966Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:20:56.012Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:20:56.070Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:20:56.119Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:28:20.243Z [info]: Client disconnected
+2025-03-20T13:28:20.749Z [info]: New client connected
+2025-03-20T13:28:24.931Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:28:25.009Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T13:28:25.078Z [info]: Total de páginas encontradas: 11
+2025-03-20T13:28:25.157Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T14:00:06.987Z [info]: Client disconnected
+2025-03-20T14:00:07.503Z [info]: New client connected
+2025-03-20T14:00:14.794Z [info]: Total de páginas encontradas: 11
+2025-03-20T14:00:14.898Z [info]: Scraped 5 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T14:00:14.907Z [info]: Total de páginas encontradas: 11
+2025-03-20T14:00:15.012Z [info]: Scraped 5 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T14:08:37.928Z [info]: Client disconnected
+2025-03-20T14:09:35.875Z [info]: New client connected
+2025-03-20T14:09:40.188Z [info]: Total de páginas encontradas: 11
+2025-03-20T14:09:40.304Z [info]: Scraped 10 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T14:09:40.766Z [info]: Total de páginas encontradas: 11
+2025-03-20T14:09:40.842Z [info]: Scraped 10 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T14:10:45.708Z [info]: Client disconnected
+2025-03-20T14:11:34.651Z [info]: New client connected
+2025-03-20T14:11:38.792Z [info]: Total de páginas encontradas: 11
+2025-03-20T14:11:38.897Z [info]: Scraped 10 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T14:11:39.449Z [info]: Total de páginas encontradas: 11
+2025-03-20T14:11:39.527Z [info]: Scraped 10 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T14:13:13.659Z [info]: Client disconnected
+2025-03-20T14:13:15.740Z [info]: New client connected
+2025-03-20T14:13:19.944Z [info]: Total de páginas encontradas: 11
+2025-03-20T14:13:19.956Z [info]: Total de páginas encontradas: 11
+2025-03-20T14:13:20.067Z [info]: Scraped 10 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T14:13:20.076Z [info]: Scraped 10 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T14:17:55.464Z [info]: Total de páginas encontradas: 11
+2025-03-20T14:17:55.542Z [info]: Scraped 49 items from https://lista.mercadolivre.com.br/iphone
+2025-03-20T15:24:48.862Z [info]: Client disconnected
+2025-03-20T15:25:08.757Z [info]: New client connected
+2025-03-20T15:25:16.929Z [info]: Total de páginas encontradas: 11
+2025-03-20T15:25:17.137Z [info]: Scraped 4 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T15:25:17.309Z [info]: Total de páginas encontradas: 11
+2025-03-20T15:25:17.431Z [info]: Scraped 4 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T15:34:33.948Z [info]: Client disconnected
+2025-03-20T16:18:59.041Z [info]: New client connected
+2025-03-20T17:54:17.964Z [info]: Server running on port 7000
+2025-03-20T17:54:18.192Z [info]: New client connected
+2025-03-20T17:55:00.171Z [info]: Server running on port 7000
+2025-03-20T17:55:00.236Z [info]: New client connected
+2025-03-20T18:02:35.806Z [info]: Server running on port 7000
+2025-03-20T18:02:37.151Z [info]: New client connected
+2025-03-20T18:02:57.917Z [info]: Server running on port 7000
+2025-03-20T18:02:57.947Z [info]: New client connected
+2025-03-20T18:05:10.844Z [info]: Server running on port 7000
+2025-03-20T18:05:10.893Z [info]: New client connected
+2025-03-20T18:11:28.572Z [info]: Server running on port 7000
+2025-03-20T18:11:28.671Z [info]: New client connected
+2025-03-20T18:12:31.528Z [info]: Server running on port 7000
+2025-03-20T18:12:33.119Z [info]: New client connected
+2025-03-20T18:25:13.571Z [info]: Server running on port 7000
+2025-03-20T18:25:15.046Z [info]: New client connected
+2025-03-20T18:29:03.759Z [info]: Server running on port 7000
+2025-03-20T18:29:03.921Z [info]: New client connected
+2025-03-20T18:33:14.876Z [info]: Server running on port 7000
+2025-03-20T18:33:16.147Z [info]: New client connected
+2025-03-20T18:37:02.720Z [info]: Server running on port 7000
+2025-03-20T18:37:04.180Z [info]: New client connected
+2025-03-20T18:37:09.681Z [info]: Server running on port 7000
+2025-03-20T18:37:09.700Z [info]: New client connected
+2025-03-20T18:38:03.781Z [info]: Server running on port 7000
+2025-03-20T18:38:03.932Z [info]: New client connected
+2025-03-20T18:38:28.253Z [info]: Server running on port 7000
+2025-03-20T18:38:28.430Z [info]: New client connected
+2025-03-20T18:39:16.563Z [info]: Server running on port 7000
+2025-03-20T18:39:16.676Z [info]: New client connected
+2025-03-20T18:40:05.190Z [info]: Server running on port 7000
+2025-03-20T18:40:05.222Z [info]: New client connected
+2025-03-20T18:41:30.727Z [info]: Server running on port 7000
+2025-03-20T18:41:31.164Z [info]: New client connected
+2025-03-20T18:42:08.832Z [info]: Server running on port 7000
+2025-03-20T18:42:10.489Z [info]: New client connected
+2025-03-20T18:45:58.792Z [info]: Server running on port 7000
+2025-03-20T18:45:58.905Z [info]: New client connected
+2025-03-20T18:46:48.653Z [info]: Server running on port 7000
+2025-03-20T18:46:48.710Z [info]: New client connected
+2025-03-20T18:46:54.311Z [info]: Client disconnected
+2025-03-20T18:47:28.829Z [info]: Server running on port 7000
+2025-03-20T18:47:40.990Z [info]: New client connected
+2025-03-20T18:47:48.264Z [info]: Total de páginas encontradas: 11
+2025-03-20T18:47:48.266Z [info]: Total de páginas encontradas: 11
+2025-03-20T18:47:48.409Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T18:47:48.410Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T18:49:20.672Z [info]: Server running on port 7000
+2025-03-20T18:49:20.713Z [info]: New client connected
+2025-03-20T18:50:15.645Z [info]: Server running on port 7000
+2025-03-20T18:50:19.158Z [info]: New client connected
+2025-03-20T18:51:16.546Z [info]: Server running on port 7000
+2025-03-20T18:51:16.681Z [info]: New client connected
+2025-03-20T18:51:49.677Z [info]: Server running on port 7000
+2025-03-20T18:51:49.750Z [info]: New client connected
+2025-03-20T18:53:11.039Z [info]: Server running on port 7000
+2025-03-20T18:53:11.177Z [info]: New client connected
+2025-03-20T18:55:46.613Z [info]: Server running on port 7000
+2025-03-20T18:55:46.643Z [info]: New client connected
+2025-03-20T18:56:59.382Z [info]: Server running on port 7000
+2025-03-20T18:56:59.421Z [info]: New client connected
+2025-03-20T18:58:29.831Z [info]: Server running on port 7000
+2025-03-20T18:58:29.931Z [info]: New client connected
+2025-03-20T19:01:17.480Z [info]: Client disconnected
+2025-03-20T19:01:18.000Z [info]: New client connected
+2025-03-20T19:01:25.514Z [info]: Total de páginas encontradas: 11
+2025-03-20T19:01:25.516Z [info]: Total de páginas encontradas: 11
+2025-03-20T19:01:25.644Z [info]: Scraped 16 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T19:01:25.650Z [info]: Scraped 15 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T19:07:06.537Z [info]: Total de páginas encontradas: 3
+2025-03-20T19:07:06.630Z [info]: Scraped 33 items from https://lista.mercadolivre.com.br/iphone 16
+2025-03-20T19:08:12.365Z [info]: Client disconnected
+2025-03-20T19:08:12.644Z [info]: New client connected
+2025-03-20T19:08:12.649Z [info]: Client disconnected
+2025-03-20T19:08:36.581Z [info]: New client connected
+2025-03-20T19:08:40.824Z [info]: Total de páginas encontradas: 11
+2025-03-20T19:08:40.900Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T19:08:40.945Z [info]: Total de páginas encontradas: 11
+2025-03-20T19:08:41.042Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T19:10:41.689Z [info]: Client disconnected
+2025-03-20T19:10:42.193Z [info]: New client connected
+2025-03-20T19:10:46.421Z [info]: Total de páginas encontradas: 11
+2025-03-20T19:10:46.687Z [info]: Scraped 15 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T19:10:46.778Z [info]: Total de páginas encontradas: 11
+2025-03-20T19:10:46.867Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T19:26:23.460Z [info]: Client disconnected
+2025-03-20T19:31:56.588Z [info]: Server running on port 7000
+2025-03-20T19:36:53.046Z [info]: New client connected
+2025-03-20T19:37:01.631Z [info]: Total de páginas encontradas: 11
+2025-03-20T19:37:01.726Z [info]: Total de páginas encontradas: 11
+2025-03-20T19:37:01.836Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T19:37:01.885Z [info]: Scraped 16 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T19:38:55.011Z [info]: Client disconnected
+2025-03-20T19:39:15.226Z [info]: New client connected
+2025-03-20T19:39:19.855Z [info]: Total de páginas encontradas: 11
+2025-03-20T19:39:19.986Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T19:39:20.299Z [info]: Total de páginas encontradas: 11
+2025-03-20T19:39:20.396Z [info]: Scraped 14 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T19:39:35.737Z [info]: Server running on port 7000
+2025-03-20T19:39:36.160Z [info]: New client connected
+2025-03-20T19:43:15.783Z [info]: Total de páginas encontradas: 11
+2025-03-20T19:43:15.923Z [info]: Scraped 34 items from https://lista.mercadolivre.com.br/papel
+2025-03-20T22:56:46.124Z [info]: Server running on port 7000
+2025-03-20T22:59:10.215Z [info]: New client connected
+2025-03-20T22:59:20.049Z [info]: Total de páginas encontradas: 11
+2025-03-20T22:59:20.354Z [info]: Total de páginas encontradas: 11
+2025-03-20T22:59:20.484Z [info]: Scraped 16 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T22:59:20.676Z [info]: Scraped 16 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-20T23:01:06.738Z [info]: Client disconnected
+2025-03-21T12:46:21.017Z [info]: New client connected
+2025-03-21T12:46:28.540Z [info]: Total de páginas encontradas: 11
+2025-03-21T12:46:28.621Z [info]: Total de páginas encontradas: 11
+2025-03-21T12:46:28.699Z [info]: Scraped 7 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-21T12:46:28.715Z [info]: Scraped 6 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-21T12:50:42.480Z [info]: Server running on port 7000
+2025-03-21T12:50:42.509Z [info]: New client connected
+2025-03-21T13:00:56.900Z [info]: Server running on port 7000
+2025-03-21T13:00:56.975Z [info]: New client connected
+2025-03-21T13:04:44.955Z [info]: Server running on port 7000
+2025-03-21T13:04:44.997Z [info]: New client connected
+2025-03-21T13:05:31.058Z [info]: New client connected
+2025-03-21T13:05:38.963Z [info]: Total de páginas encontradas: 11
+2025-03-21T13:05:39.075Z [info]: Total de páginas encontradas: 11
+2025-03-21T13:05:39.113Z [info]: Scraped 7 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-21T13:05:39.176Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-21T13:06:30.494Z [info]: Server running on port 7000
+2025-03-21T13:06:30.543Z [info]: New client connected
+2025-03-21T13:06:30.546Z [info]: New client connected
+2025-03-21T13:07:43.071Z [info]: Client disconnected
+2025-03-21T13:10:10.442Z [info]: New client connected
+2025-03-21T13:10:14.637Z [info]: Total de páginas encontradas: 11
+2025-03-21T13:10:14.741Z [info]: Total de páginas encontradas: 11
+2025-03-21T13:10:14.749Z [info]: Scraped 9 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-21T13:10:14.823Z [info]: Scraped 8 items from https://lista.mercadolivre.com.br/Macbook
+2025-03-21T13:27:53.860Z [info]: Client disconnected
+2025-03-21T13:27:53.866Z [info]: Client disconnected
+2025-03-21T13:30:30.913Z [info]: New client connected
+2025-03-21T13:30:30.930Z [info]: New client connected
+2025-03-21T13:30:51.273Z [info]: Client disconnected
+2025-03-21T13:30:51.426Z [info]: Client disconnected
