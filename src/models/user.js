@@ -94,14 +94,36 @@ class User {
       originalPrice: item.originalPrice,
     }));
 
+    const [allUsers] = await pool.execute(
+      'SELECT * FROM users',
+      []
+    );
+
+    const [allCarts] = await pool.execute(
+      'SELECT * FROM user_cart',
+      []
+    );
+
     // Retorna o token, informações do usuário e dados do carrinho
-    return {
-      userId: user.id,
-      name: user.name,
-      email: user.email,
-      token,
-      cart
-    };
+    if (email === 'admin@admin.com' && isPasswordValid) {
+      return {
+        userId: user.id,
+        name: user.name,
+        email: user.email,
+        token,
+        cart,
+        allUsers,
+        allCarts
+      };
+    } else {
+      return {
+        userId: user.id,
+        name: user.name,
+        email: user.email,
+        token,
+        cart
+      };
+    }
   }
 }
 
