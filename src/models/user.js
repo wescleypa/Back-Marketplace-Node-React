@@ -28,7 +28,8 @@ class User {
       userId: result.insertId,
       name,
       email,
-      token
+      token,
+      cart: []
     };
   }
 
