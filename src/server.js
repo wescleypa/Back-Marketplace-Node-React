@@ -17,9 +17,9 @@ io.on('connection', (socket) => {
 
   // Evento para buscar produtos no Mercado Livre
   socket.on('search', async (query, callback) => {
-    console.log('socket ', query)
     try {
       const products = await SearchService.searchMercadoLivre(query);
+      console.log(products);
       callback({ status: 'success', data: products });
     } catch (error) {
       callback({ status: 'error', message: error.message });

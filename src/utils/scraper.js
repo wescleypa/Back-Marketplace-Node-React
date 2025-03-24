@@ -34,14 +34,70 @@ class Scraper {
     logger.info(`Total de páginas encontradas: ${totalPages}`);
 
     // Extrai os dados dos produtos
-    const data = await page.evaluate((selector) => {
+    const data = await page.evaluate((params) => {
       const extractData = (item) => {
-        const titleElement = item.querySelector('.poly-component__title');
+
+        const isNoIndex = params.url.includes('NoIndex_True');
+        const titleElement = item.querySelector(
+          isNoIndex
+            ? '.ui-search-link__title-card.ui-search-link'
+            : '.poly-component__title'
+        );
+
+        const imageElement = item.querySelector(
+          isNoIndex
+            ? '.ui-search-result-image__element'
+            : '.poly-component__picture'
+        );
+
+        const rateElement = item.querySelector(
+          isNoIndex
+            ? '.ui-search-reviews__rating-number'
+            : '.poly-reviews__rating'
+        );
+
+        const reviewsElement = item.querySelector(
+          isNoIndex
+            ? '.ui-search-reviews__amount'
+            : '.poly-reviews__total'
+        );
+
+        const linkElement = item.querySelector(
+          isNoIndex
+            ? '.ui-search-link__title-card.ui-search-link'
+            : '.poly-component__title'
+        );
+
+        function extrairCodigoMLB(url) {
+          try {
+            const partes = url.split('/');
+            if (partes.length < 5) throw new Error('URL inválida');
+
+            const segmento = partes[4];
+            const [prefixo, numero] = segmento.split('-');
+
+            if (!prefixo || !numero) throw new Error('Padrão não encontrado');
+
+            return {
+              comTraco: `${prefixo}-${numero.split('-')[0]}`,
+              semTraco: `${prefixo}${numero.split('-')[0]}`
+            };
+          } catch (error) {
+            console.error('Erro ao extrair código:', error);
+            return { comTraco: null, semTraco: null };
+          }
+        }
+
+        const idElement =
+          isNoIndex
+            ? extrairCodigoMLB(linkElement)
+            : (
+              linkElement
+                ? linkElement.getAttribute('href')?.toString().split('/p/')[1].split('#polycard')[0]
+                : null
+            );
+
         const priceElement = item.querySelector('.andes-money-amount__fraction');
-        const imageElement = item.querySelector('.poly-component__picture');
-        const rateElement = item.querySelector('.poly-reviews__rating');
-        const reviewsElement = item.querySelector('.poly-reviews__total');
-        const linkElement = item.querySelector('.poly-component__title');
 
         return {
           title: titleElement ? titleElement.innerText : 'Título não disponível',
@@ -50,12 +106,12 @@ class Scraper {
           rating: rateElement ? rateElement.innerText : 4.5,
           reviews: reviewsElement ? reviewsElement.innerText : 0,
           link: linkElement ? linkElement.getAttribute('href') : null,
-          id: linkElement ? linkElement.getAttribute('href')?.toString().split('/p/')[1].split('#polycard')[0] : null
+          id: idElement ?? null
         };
       };
 
       const items = [];
-      const elements = document.querySelectorAll(selector);
+      const elements = document.querySelectorAll(params.selector);
 
       elements.forEach((item) => {
         try {
@@ -67,7 +123,7 @@ class Scraper {
       });
 
       return items;
-    }, selector);
+    }, { selector, url });
 
     await browser.close();
     logger.info(`Scraped ${data.length} items from ${url}`);
