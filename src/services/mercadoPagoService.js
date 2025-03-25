@@ -16,7 +16,7 @@ class MercadopagoService {
 
       // Buscar detalhes do pagamento
       console.log(id)
-      const payment = await payments.get(id);
+      const payment = await payments.get({id});
    
       // Processar notificação
       //await MP.handlePaymentNotification(payment.body);
