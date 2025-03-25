@@ -13,14 +13,10 @@ class MercadopagoService {
   static async webhook(req, res) {
     try {
       const { id, action } = req.body;
-      console.log(req.body);
-      // Verificar autenticidade da notificação
-      const isValid = MP.verifyWebhook(req.headers['x-signature'], req.body);
-      if (!isValid) return res.status(401).send();
 
       // Buscar detalhes do pagamento
       const payment = await payments.get(id);
-
+      console.log(payment)
       // Processar notificação
       await MP.handlePaymentNotification(payment.body);
 
